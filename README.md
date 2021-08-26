@@ -6,7 +6,7 @@ This is a template repository containing some stuff to save time when creating a
 
 ![top-language](https://img.shields.io/github/languages/top/bcakmakoglu/temple-of-time)
 [![dependencies Status](https://status.david-dm.org/gh/bcakmakoglu/temple-of-time.svg)](https://david-dm.org/bcakmakoglu/temple-of-time)
-[![devDependencies Status](https://status.david-dm.org/gh/bcakmakoglu/temple-of-time.svg?type=dev)](https://david-dm.org/bcakmakoglu/rtemple-of-time?type=dev)
+[![devDependencies Status](https://status.david-dm.org/gh/bcakmakoglu/temple-of-time.svg?type=dev)](https://david-dm.org/bcakmakoglu/temple-of-time?type=dev)
 ![vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/bcakmakoglu/temple-of-time)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bcakmakoglu/temple-of-time)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bcakmakoglu/temple-of-time)
